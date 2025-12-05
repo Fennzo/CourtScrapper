@@ -3,7 +3,7 @@
 **Version:** 1.0  
 **Last Updated:** 2025-11-27
 
-This document provides comprehensive visual flow diagrams of the system architecture, execution flow, and data processing pipeline using Mermaid syntax. All diagrams are renderable in GitHub, GitLab, and most modern markdown viewers.
+This document provides comprehensive visual flow diagrams of the system architecture, execution flow, and data processing pipeline using Mermaid syntax.
 
 ---
 
